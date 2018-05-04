@@ -45,6 +45,18 @@
     {
       "class": "text",
       "id": "172E2CAE-5B62-4950-81F9-59108D7FF210"
+    },
+    {
+      "class": "text",
+      "id": "9A2A72EF-7433-4FC7-8F81-23B0B87AA7C7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C1952F9E-3D68-4696-85AA-0B46FC093D62"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "95A8C000-FD40-4008-AAEE-E06B11EFCDFB"
     }
   ],
   "name": "Artboard",
